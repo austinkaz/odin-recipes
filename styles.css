@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box
+}
+
+
+.head {
+    text-align: center;
+    color: white;
+    margin: 50px;
+}
+
+.list {
+    width: 200px;
+    margin: auto;
+    color: yellow;
+    margin-top: 50px;
+}
+
+.body {
+    background-color: black;
+}
+
+#header {
+    text-align: center;
+}
+
+a {
+    color: red;
+    width: 200px; 
+    margin: 800px;
+}
+
+.subhead {
+    color: red;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+    font-weight: 650;
+}
